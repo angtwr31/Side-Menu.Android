@@ -20,7 +20,7 @@ android {
 }
 
 dependencies {
-	compile project(':lib:CircularReveal:circualreveal')
+    //compile project(':lib:CircularReveal:circualreveal')
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:21.0.3'
 }
